@@ -6,7 +6,18 @@
     <title>Editorial Tunas</title>
 </head>
 <body>
-    <h1>Hello Tunas!</h1>
-    <h2>trump 2024<h2>
+    <header id="header">
+        <div id="logo">
+            <h1>Editorial Web</h1>
+        </div>
+        <div id="searchbar"></div>
+        <nav id="navbar">
+            <ul id="navmenu">
+                <li class="navlink">link 1</li>
+                <li class="navlink">link 2</li>
+                <li class="navlink">link 3</li>
+            </ul>
+        </nav>
+    </header>
 </body>
 </html>
